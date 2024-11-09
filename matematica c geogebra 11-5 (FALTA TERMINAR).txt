@@ -1,0 +1,19 @@
+FUNÇÃO EXPONENCIAL
+
+a) Quando a > 1, a curva cresce após o 0. Quando a<1, a curva diminui antes do 0. Quando a < 0, não existe curva no gráfico.
+
+b) Quando a > 1, o gráfico é CRESCENTE. Quando 0 < a < 1, o gráfico é DECRESCENTE
+
+c) Quando o coeficiente linear é POSITIVO, a curva cresce acima de 0. Quando o coeficiente linear é NEGATIVO, a curva cresce abaixo de 0.
+
+FUNÇÃO LOGARÍTMICA
+
+
+
+FUNÇÃO PERIÓDICA
+
+a) Quando a > 0, a curva primeiro encontra um pico. Quando a > 0, a curva primeiro encontra um vale.
+
+b) Quando b > 0, o gráfico 'se move' para a esquerda. Quando b < 0, o gráfico 'se move' para a direita.
+
+c) Quando c > 0, o gráfico 'se move' para cima. Quando c < 0, o gráfico 'se move' para baixo.
